@@ -53,7 +53,7 @@ def read_my_mind():
     steps = [
         "Calculating probabilities...",
         "Decoding thoughts...",
-        "Analyzing brainwaves...",
+        "Analysing brainwaves...",
         "Scanning memories...",
         "Interpreting signals...",
         "Finalizing prediction..."
